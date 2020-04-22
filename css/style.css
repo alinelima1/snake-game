@@ -1,0 +1,14 @@
+body {
+    color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    margin: 15px;
+    border-radius: 4px;
+    color: aliceblue;
+    background-color: green;
+}
